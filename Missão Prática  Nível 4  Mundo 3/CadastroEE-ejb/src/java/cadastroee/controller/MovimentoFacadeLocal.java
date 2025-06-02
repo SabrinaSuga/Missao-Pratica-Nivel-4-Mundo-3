@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Smith
+ * @author bina
  */
 @Local
 public interface MovimentoFacadeLocal {
