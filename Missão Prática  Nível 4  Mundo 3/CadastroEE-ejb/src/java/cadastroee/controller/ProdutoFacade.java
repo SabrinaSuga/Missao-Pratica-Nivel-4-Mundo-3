@@ -11,7 +11,7 @@ import jakarta.persistence.PersistenceContext;
 
 /**
  *
- * @author Smith
+ * @author bina
  */
 @Stateless
 public class ProdutoFacade extends AbstractFacade<Produto> implements ProdutoFacadeLocal {
