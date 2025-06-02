@@ -11,7 +11,7 @@ Curso: Desenvolvimento Full Stack.
  
 Disciplina: Nível 4: Vamos Integrar Sistemas.
  
-Número da Turma: 2024.3
+Número da Turma: 2025.1
  
 Semestre Letivo: 3.
 
