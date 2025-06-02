@@ -12,7 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Smith
+ * @author bina
  */
 public class ServletProduto extends HttpServlet {
 
