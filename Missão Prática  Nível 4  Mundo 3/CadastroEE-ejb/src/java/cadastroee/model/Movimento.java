@@ -21,7 +21,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Smith
+ * @author bina
  */
 @Entity
 @Table(name = "Movimento")
