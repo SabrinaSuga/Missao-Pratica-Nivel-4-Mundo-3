@@ -24,7 +24,7 @@ import java.util.Collection;
 
 /**
  *
- * @author Smith
+ * @author bina
  */
 @Entity
 @Table(name = "Usuario")
